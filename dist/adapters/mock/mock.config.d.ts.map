@@ -1,0 +1,1 @@
+{"version":3,"file":"mock.config.d.ts","sourceRoot":"","sources":["../../../src/adapters/mock/mock.config.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,oBAAoB,CAAC;AAEvD,MAAM,WAAW,UAAU;IAEzB,YAAY,CAAC,EAAE,MAAM,CAAC;IAEtB,SAAS,CAAC,EAAE,YAAY,EAAE,CAAC;IAK3B,eAAe,CAAC,EAAE,MAAM,CAAC;CAC1B"}
